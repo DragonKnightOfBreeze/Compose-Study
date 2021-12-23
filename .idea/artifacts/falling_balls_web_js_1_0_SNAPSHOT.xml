@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="falling-balls-web-js-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/examples/falling-balls-web/build/libs</output-path>
+    <root id="archive" name="falling-balls-web-js-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="falling-balls-web.jsMain" />
+    </root>
+  </artifact>
+</component>

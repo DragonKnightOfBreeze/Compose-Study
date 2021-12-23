@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="common-desktop">
+    <output-path>$PROJECT_DIR$/examples/codeviewer/common/build/libs</output-path>
+    <root id="archive" name="common-desktop.jar">
+      <element id="module-output" name="codeviewer.common.desktopMain" />
+    </root>
+  </artifact>
+</component>
