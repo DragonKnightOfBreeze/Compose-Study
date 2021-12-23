@@ -3,6 +3,11 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="falling-balls" target="1.8" />
+      <module name="falling-balls-web" target="1.8" />
+      <module name="falling-balls-web.commonMain" target="1.8" />
+      <module name="falling-balls-web.commonTest" target="1.8" />
+      <module name="falling-balls-web.jvmMain" target="1.8" />
+      <module name="falling-balls-web.jvmTest" target="1.8" />
       <module name="falling-balls.main" target="1.8" />
       <module name="falling-balls.test" target="1.8" />
     </bytecodeTargetLevel>
